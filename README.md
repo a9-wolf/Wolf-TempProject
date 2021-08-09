@@ -16,9 +16,9 @@
 البوتات _**يجب**_ ان تتم الموافقة عليها في احد الغرف هذه [bot approval](http://wolflive.com/bot+approval?r=444444) او [bot approval.ar](http://wolflive.com/bot+approval.ar?r=444444)
  
 # خطوات تشغيل البوت
-1- قم بفك الضغط عن الملف
+- قم بفك الضغط عن الملف
 
-2- TempProject.sln قم بفتح ملف
+- TempProject.sln قم بفتح ملف
 
 # تشغيل البوت
 - قم بكتابة امر !تجربة مساعدة لعرض رسالة المساعدة
